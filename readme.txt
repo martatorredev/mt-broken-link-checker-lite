@@ -29,7 +29,7 @@ The plugin checks both internal and external links in your posts and pages.
 
 = How can I report a bug or suggest a new feature? =
 
-You can report bugs or suggestions through our [GitHub repository](https://github.com/yourusername/mtdev-broken-link-checker-lite/issues).
+You can report bugs or suggestions through our [GitHub repository](https://github.com/martatorredev/mt-broken-link-checker-lite/issues).
 
 == Changelog ==
 
